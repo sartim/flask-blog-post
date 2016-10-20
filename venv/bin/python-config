@@ -1,4 +1,4 @@
-#!/home/timo/Projects/Python/Flask/flask-intro/venv/bin/python
+#!/home/timo/Projects/Python/Flask/flask-blog/venv/bin/python
 
 import sys
 import getopt
